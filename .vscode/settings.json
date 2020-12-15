@@ -2,6 +2,6 @@
     "objectscript.conn": {
         "server": "ensemble2016",
         "ns": "USER",
-        "active": true
+        "active": false
     }
 }
