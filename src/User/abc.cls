@@ -1,9 +1,9 @@
 Class User.abc
 {
 
-ClassMethod abc() As %Status
+ClassMethod tyytest() As %Status
 {
-    set abcdef = $$$OK
+    set tyytest = $$$OK
     
     return
 }
