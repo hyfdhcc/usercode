@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "usercode",
+			"path": "."
+		},
+		{
+			"name": "ensemble2016:USER",
+			"uri": "isfs://ensemble2016/?ns=USER"
+		}
+	],
+	"settings": {}
+}
