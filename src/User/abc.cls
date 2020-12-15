@@ -3,7 +3,7 @@ Class User.abc
 
 ClassMethod abc() As %Status
 {
-    set abc = $$$OK
+    set abcd = $$$OK
     
     return
 }
