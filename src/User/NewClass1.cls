@@ -1,6 +1,6 @@
 Class User.NewClass1 Extends %Persistent
 {
-///
+///222
 ClassMethod aaa() As %Status
 {
         s ^aaa=1
