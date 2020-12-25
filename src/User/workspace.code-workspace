@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"name": "servertyy:USER",
+			"uri": "isfs://servertyy/?ns=USER"
+		},
+		{
+			"path": "..\\..\\..\\samplescode"
+		},
+		{
+			"name": "servertyy:SAMPLES",
+			"uri": "isfs://servertyy/?ns=SAMPLES"
+		}
+	],
+	"settings": {}
+}
